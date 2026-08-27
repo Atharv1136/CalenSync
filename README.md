@@ -1,6 +1,6 @@
-# 📅 Appointly - Smart Appointment Scheduling Platform
+# 📅 Calensync - Smart Appointment Scheduling Platform
 
-**Appointly** is a comprehensive appointment scheduling and booking platform designed for the modern service industry. It enables real-time booking with multiple providers, flexible scheduling, and complete appointment lifecycle management.
+**Calensync** is a comprehensive appointment scheduling and booking platform designed for the modern service industry. It enables real-time booking with multiple providers, flexible scheduling, and complete appointment lifecycle management.
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Atharv1136/Appointly)
